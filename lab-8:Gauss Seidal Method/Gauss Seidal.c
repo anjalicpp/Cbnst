@@ -1,0 +1,1 @@
+Coe for Gauss Seidal:
