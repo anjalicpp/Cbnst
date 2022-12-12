@@ -1,4 +1,4 @@
-code:
+code:rk 4 method
 #include<stdio.h>
 #define F(x,y) (x-y)/(x+y)
 
